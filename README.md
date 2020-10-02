@@ -1,2 +1,2 @@
 # Recommendation_Systems
-Dataset for this project can be downloaded from this url: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+Dataset for this project can be downloaded from the given url: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
